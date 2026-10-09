@@ -1,65 +1,87 @@
-<h2 align="center">Hi 👋! My name is Leonel Rosado and I'm a Frontend developer fromYucatán/Mexico</h2>
+<h1 align="center">Hi 👋, I'm Leonel Rosado</h1>
+<h3 align="center">Fullstack Developer from Yucatán, México 🇲🇽</h3>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/no%C3%A9-leonel-rosado-quintal-20a701263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:leonelrosado2407@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/leonel_rosado247/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<br clear="both">
+## 🧑‍💻 About me
 
-<img src="https://raw.githubusercontent.com/LeonelRosado2407/LeonelRosado2407/output/snake.svg" alt="Snake animation" />
+- 🛠️ I build web apps end to end: **Vue / React / Astro** on the frontend, **Laravel / Node.js / C#** on the backend.
+- 🌱 Currently leveling up with **TypeScript** and modern PHP.
+- 📍 Based in Yucatán, México — open to remote collaboration.
+- 📫 Best way to reach me: [leonelrosado2407@gmail.com](mailto:leonelrosado2407@gmail.com)
 
-###
+> 🇲🇽 **En español:** Soy desarrollador Fullstack de Yucatán, México. Me gusta construir aplicaciones web completas, desde la interfaz hasta la API. ¡Si tienes un proyecto en mente, escríbeme!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonelRosado2407&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LeonelRosado2407&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonelRosado2407&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## 🧰 Tech stack
 
-###
+**Frontend**
 
-<br clear="both">
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,astro,bootstrap&theme=dark" alt="Frontend stack" />
+</p>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN5cnNlM3MybGpsOWV1aHV1Y2F5ZmhqYnIxdjM0YzQxMW8xeWY5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+**Backend**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,cs,mysql&theme=dark" alt="Backend stack" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-</div>
+## 🚀 Featured projects
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/leonel_rosado247/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=leonel_rosado247&logo=instagram&label=&color=E4405F&logoColor=White&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://github.com/LeonelRosado2407/portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=portfolio&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=portfolio&hide_border=true" alt="portfolio" />
+    </picture>
   </a>
-  <a href="leonelrosado2407@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact%20me&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://github.com/LeonelRosado2407/Nexus-Landing-Page">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=Nexus-Landing-Page&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=Nexus-Landing-Page&hide_border=true" alt="Nexus-Landing-Page" />
+    </picture>
   </a>
-  <a href="https://www.linkedin.com/in/no%C3%A9-leonel-rosado-quintal-20a701263/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://github.com/LeonelRosado2407/dessert-page">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=dessert-page&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=dessert-page&hide_border=true" alt="dessert-page" />
+    </picture>
   </a>
-</div>
+  <a href="https://github.com/LeonelRosado2407/keel-php">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=keel-php&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=keel-php&hide_border=true" alt="keel-php" />
+    </picture>
+  </a>
+</p>
 
-###
+## 📊 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LeonelRosado2407&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonelRosado2407&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LeonelRosado2407&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonelRosado2407&layout=compact&langs_count=6&hide_border=true" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LeonelRosado2407&theme=github-dark-blue&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=LeonelRosado2407&hide_border=true" alt="GitHub streak" />
+  </picture>
+</p>
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonelRosado2407/LeonelRosado2407/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/LeonelRosado2407/LeonelRosado2407/output/snake.svg" alt="Snake eating my contributions" />
+</picture>

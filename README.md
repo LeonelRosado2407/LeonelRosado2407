@@ -32,7 +32,17 @@
 
 ## 🚀 Featured projects
 
+> 🆕 **Latest: [leonel-os](https://github.com/LeonelRosado2407/portfolio-terminal)** — my portfolio as an operating system. It boots, logs in as `root` and drops you into a terminal to explore my work with `ls`, `cd`, `cat` and `open` (or just click). Vue 3 · Vite · Tailwind · Vitest · Playwright.
+>
+> **→ Try it live: [os.leonelrosado.dev](https://os.leonelrosado.dev)**
+
 <p align="center">
+  <a href="https://github.com/LeonelRosado2407/portfolio-terminal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=portfolio-terminal&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=portfolio-terminal&hide_border=true" alt="portfolio-terminal" />
+    </picture>
+  </a>
   <a href="https://github.com/LeonelRosado2407/portfolio">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LeonelRosado2407&repo=portfolio&theme=github_dark&hide_border=true" />
